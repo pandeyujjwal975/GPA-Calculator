@@ -1,4 +1,4 @@
-# GPA Calculator
+W# GPA Calculator
 
 A full-screen, mobile-friendly GPA Calculator built using HTML, CSS, and JavaScript.  
 This project helps students calculate their GPA easily using the standard weighted average formula.  
@@ -63,7 +63,7 @@ Add your live demo link here :
 ## Author
 
 **Ujjwal Pandey**  
-Portfolio: https://your-portfolio-link.com
+Portfolio: https://pandeyujjwal975.github.io/My-Portfolio/
 
 ---
 
